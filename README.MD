@@ -1,5 +1,13 @@
 <p><img src="img/inverted_banner.svg" style="width: 500px"></p>
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=CourseNotes_site)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=CourseNotes_site&metric=bugs)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CourseNotes_site&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=CourseNotes_site&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=CourseNotes_site&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=CourseNotes_site&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=CourseNotes_site&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=CourseNotes_site)
+
 ---
 
 Revision Made Simple
