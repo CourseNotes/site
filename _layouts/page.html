@@ -1,0 +1,20 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    {% include loading.html %}
+    <div class="hero" style="height: 20rem">
+      <div class="hero-content">
+        <h1>{{ page.hero_title }}</h1>
+        <p>{{ page.hero_subtitle }}</p>
+      </div>
+    </div>
+    {{ content }}
+    {% include tawk.html %}
+    {% include footer.html %}    
+  </body>
+</html>

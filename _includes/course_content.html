@@ -1,0 +1,13 @@
+{% for section in site.data.8702_B_2 %}
+<h2>{{ section.section }}</h2>
+<div class="courses-grid">
+  {% for module in section.modules %}
+  <a href="{{ module.url }}" class="course-link">
+    <div class="course-card">
+      <p>{{ module.id }}</p>
+      <h2>{{ module.module }}</h2>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endfor %}

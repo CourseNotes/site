@@ -1,0 +1,10 @@
+<div class="courses-grid">
+  {% for section in site.data.8702_B_2 %} {% for module in section.modules %} {%
+  if module.module == page.module %} {% for resource in module.resources %}
+  <a href="{{ resource.url }}" class="course-link">
+    <div class="course-card">
+      <h2>{{ resource.name }}</h2>
+    </div>
+  </a>
+  {% endfor %} {% endif %} {% endfor %} {% endfor %}
+</div>

@@ -1,0 +1,5 @@
+title: CourseNotes
+description: "Revision made easy! For students, by students."
+encoding: utf-8
+
+exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]

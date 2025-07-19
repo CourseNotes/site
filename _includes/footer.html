@@ -1,0 +1,23 @@
+<link rel="stylesheet" href="/assets/style.css" />
+<footer>
+  <p>
+    &copy; 2024 Oliver Potter. Licensed under
+    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank"
+      >GNU GPL 3.0</a>.
+  </p>
+  <div id="wcb" class="carbonbadge"></div>
+  <script
+    src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js"
+    defer
+  ></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener');
+    }
+  });
+});
+</script>
+</footer>

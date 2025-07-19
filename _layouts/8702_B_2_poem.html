@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.poem_name }} | AQA 8702/B/2 | CourseNotes</title>
+    <link rel="stylesheet" href="/assets/style.css" />
+    <link rel="icon" type="image/x-icon" href="/img/Favicon.ico" />
+    <meta property="og:title" content="[AQA 8702/B/2] {{ page.poem_name }}" />
+    <meta property="og:site_name" content="CourseNotes" />
+    <script
+      type="module"
+      src="https://js.withorbit.com/orbit-web-component.js"
+    ></script>
+    <meta property="orbit:color" content="turquoise" />
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="hero" style="height: 20rem">
+      <div class="hero-content">
+        <h3>Power & Conflict Poetry (AQA 8702/B/2)</h3>
+        <h1>{{ page.poem_name }}</h1>
+        <h2>{{ page.poem_poet }}</h2>
+      </div>
+    </div>
+    {{ content }}
+    <br />
+    <hr />
+    <br />
+
+    {% include orbit_reviewarea.html %}
+    <h1>Resources</h1>
+    {% include module_resources.html %} {% include tawk.html %} <br /><br />{%
+    include footer.html %}
+  </body>
+</html>

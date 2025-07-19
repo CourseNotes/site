@@ -1,0 +1,11 @@
+<div style="display: flex; justify-content: center">
+  <orbit-reviewarea>
+    {% for section in site.data.8702_B_2 %} {% for module in section.modules %}
+    {% if module.module == page.module %} {% for question in module.questions %}
+    <orbit-prompt
+      question="{{ question.question }}"
+      answer="{{ question.answer }}"
+    ></orbit-prompt>
+    {% endfor %} {% endif %} {% endfor %} {% endfor %}
+  </orbit-reviewarea>
+</div>

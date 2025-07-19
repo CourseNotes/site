@@ -1,0 +1,10 @@
+<div class="courses-grid">
+  {% for course in site.data.courses %}
+  <a href="{{ course.url }}" class="course-link">
+    <div class="course-card">
+      <h2>{{ course.title }}</h2>
+      <p>{{ course.id }}</p>
+    </div>
+  </a>
+  {% endfor %}
+</div>

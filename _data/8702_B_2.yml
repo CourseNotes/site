@@ -1,0 +1,407 @@
+- section: Poems
+  modules:
+    - module: Ozymandias
+      id: Percy Bysshe Shelley
+      url: /courses/8702_B_2/poems/ozymandias
+      questions:
+        - question: What is the central theme of 'Ozymandias'?
+          answer: The impermanence of power and how time eventually erodes all human achievements, no matter how great.
+        - question: What does 'sneer of cold command' suggest about Ozymandias?
+          answer: It reflects the tyrannical and arrogant nature of the ruler, showing how his oppressive leadership is remembered.
+        - question: How does Shelley use the statue to symbolise lost power?
+          answer: The shattered, half-sunk statue represents the downfall of rulers who believed their power would last forever.
+        - question: What is ironic about the quote 'Look on my works, ye Mighty, and despair'?
+          answer: The boast contrasts with the ruined statue, highlighting the futility of pride and the decay of once-great empires.
+        - question: Why is the sculptor important in the poem?
+          answer: His work outlasts Ozymandias' power, suggesting art and creativity are more enduring than political control.
+        - question: What does 'sneer of cold command' suggest about Ozymandias?
+          answer: The irregular rhyme and fragmented sonnet mirror the theme of collapse and disintegration of power.
+        - question: What could Shelley's message be to the British government?
+          answer: It's a veiled warning against tyranny, suggesting that oppressive regimes will fall and be forgotten, just like Ozymandias.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/bFgw_vhwRdA?si=CZFBE9j8zMc2Ank1
+        - name: Analysis
+          url: https://youtu.be/d_Egz2bDQ0o?si=vQEWnjNGtrNv1GYu
+        - name: Quick Revision
+          url: https://youtu.be/PV_EeGJmWqA?si=XTQrkky3v_WPV8XQ
+    - module: London
+      id: William Blake
+      url: /courses/8702_B_2/poems/london
+      questions:
+        - question: What is the central theme of William Blake's 'London'?
+          answer: The poem critiques social injustice, poverty, and the oppressive control over people's lives in 18th-century London.
+        - question: What does 'Runs in blood down palace walls' symbolise?
+          answer: It criticises the monarchy, referencing revolution and suggesting that those in power are complicit in societal suffering.
+        - question: What is the effect of 'charter'd street' and 'charter'd Thames'?
+          answer: Blake shows that even nature is not free. Everything is owned and controlled, highlighting the city's oppression.
+        - question: What are 'mind-forged manacles'?
+          answer: They represent the psychological imprisonment of the people, caused by authority, tradition, and a lack of free thought.
+        - question: How does the poem's structure reflect its message?
+          answer: The strict ABAB rhyme and regular quatrains mirror the control and lack of freedom faced by the poor in London.
+        - question: Why does Blake use repetition in the poem?
+          answer: To emphasise how pervasive control is. Nothing escapes the chartered, oppressive structure of society.
+        - question: How does Blake contrast the narrator with the city?
+          answer: The narrator can 'wander', suggesting some freedom, but he's surrounded by a rigid, suffering society trapped by control.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/t7z-uUyrdyY?si=Gz4nJ1X818b9cqsg
+        - name: Analysis
+          url: https://youtu.be/zHp8eVi27Nw?si=P80-jTRAFjKmkjGU
+        - name: Quick Revision
+          url: https://youtu.be/McAbDpgtje0?si=i2SPOgSRUfEv2GK3
+    - module: Extract from, The Prelude
+      id: William Wordsworth
+      url: /courses/8702_B_2/poems/prelude
+      questions:
+        - question: What theme is central to 'The Prelude'?
+          answer: The sublime power of nature and its effect on human emotion and moral growth.
+        - question: What does 'Towered up between me and the stars' suggest?
+          answer: It shows the mountain's power, blocking celestial guidance, symbolising man's insignificance before nature.
+        - question: Why is the line 'One summer evening (led by her)' significant?
+          answer: It personifies nature as a guiding force and shows the speaker's early confidence and sense of control.
+        - question: What is the impact of 'huge peak, black and huge'?
+          answer: Repetition and stark imagery show the speaker's fear and how nature shatters his earlier arrogance.
+        - question: What does 'Upreared its head' imply about nature?
+          answer: Nature is made to seem animalistic and threatening, as though defending itself against the boy's intrusion.
+        - question: How does the poem's structure support its themes?
+          answer: Epic form elevates a personal experience; blank verse reflects inner growth, and caesura shows fractured harmony with nature.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/7LruI4IaCAI?si=114es9vX1kHwM4Yh
+        - name: Analysis
+          url: https://youtu.be/5g3l1E1gHiM?si=y1v76ENx8s7mqH-U
+        - name: Quick Revision
+          url: https://youtu.be/5yVflZI3Mr0?si=zXI2Ers8ApA0rbc6
+    - module: My Last Duchess
+      id: Robert Browning
+      url: /courses/8702_B_2/poems/duchess
+      questions:
+        - question: What literary form is used in My Last Duchess to emphasise the Duke's personality?
+          answer: Dramatic monologue
+        - question: How does the Duke exert control over the Duchess even after her death?
+          answer: He controls who sees her portrait by drawing the curtain himself.
+        - question: What does the line 'I gave commands; then all smiles stopped together' suggest?
+          answer: It implies the Duke ordered the Duchess' death due to her behaviour displeasing him.
+        - question: What theme is present in the quote 'Looking as if she were alive'?
+          answer: Appearance vs Reality
+        - question: What do the Duke's rhetorical questions and uninterrupted speech reveal about his character?
+          answer: They show his narcissism and need for control in conversation and relationships.
+        - question: What historical figure is the Duke believed to be based on?
+          answer: Alfonso II d'Este, Duke of Ferrara
+        - question: How does the poem explore the theme of patriarchy?
+          answer: The Duke views the Duchess as a possession and expects obedience, reflecting male dominance and therefore patriarchy.
+        - question: Why is the use of rhyming couplets significant in the poem?
+          answer: They show the Duke's attempt to impose order and control, even over his own speech.
+        - question: What does the phrase 'my last duchess' reveal about the Duke's view of his wife?
+          answer: It shows he saw her as a possession, using 'my' to assert ownership.
+        - question: How is power shown to be dangerous in the poem?
+          answer: The Duke's abuse of power leads to implied murder, revealing the danger of unchecked power.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/x9nAFHAXjgY?si=hGZJ5CAXDVUamgDE
+        - name: Analysis
+          url: https://youtu.be/T9h_csKEwxg?si=DMdsRtyLKBpZaywt
+        - name: Quick Revision
+          url: https://youtu.be/itfGGpFIloc?si=bmjXXlw2UJxcfDc3
+    - module: The Charge of the Light Brigade
+      id: Alfred Lord Tennyson
+      url: /courses/8702_B_2/poems/lightbrigade
+      questions:
+        - question: What is the main theme of 'The Charge of the Light Brigade'?
+          answer: The poem honours the bravery, sacrifice, and loyalty of soldiers who followed flawed orders in the Crimean War.
+        - question: What is the significance of 'Some one had blunder'd'?
+          answer: It criticises military leadership and highlights the tragic consequences of human error, without naming individuals.
+        - question: What does 'Half a league onward, all in the valley of Death' suggest?
+          answer: It references Psalm 23, presenting the soldiers as brave yet doomed, fulfilling duty despite danger.
+        - question: What effect does 'Cannon to the right... left... front' create?
+          answer: Anaphora emphasises how surrounded and doomed they were, heightening the intensity and futility of the charge.
+        - question: What do 'jaws of Death' and 'mouth of Hell' symbolise?
+          answer: Biblical allusions depict the horror and inevitability of death in war, reinforcing the poem's tragic tone.
+        - question: What does 'All that was left of them' imply?
+          answer: It shows the devastating aftermath, highlighting the men's unity and sacrifice in the face of destruction.
+        - question: Why repeat 'Honour the charge they made! Honour the Light Brigade'?
+          answer: Imperatives urge readers to respect their courage, uniting survivors and the fallen under one heroic legacy.
+        - question: How does the structure and dactylic dimeter affect the poem?
+          answer: The rhythm mimics a galloping charge, enhancing the sense of motion, urgency, and chaos.
+        - question: What does the structural shift signify?
+          answer: It mirrors the shift from charge to retreat, reminding us of the soldiers' bravery even in defeat.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/SwHW0IVYYo4?si=Y-nrI8HFPegIhJ8d
+        - name: Analysis
+          url: https://youtu.be/OXVs8KydoNY?si=Mxw2Hc4WzxyF2UzS
+        - name: Quick Revision
+          url: https://youtu.be/Zwgv-MdWDYU?si=95yLY0Ix0DPah5kC
+    - module: Exposure
+      id: Wilfred Owen
+      url: /courses/8702_B_2/poems/ozymandias
+      questions:
+        - question: What is the main theme of Exposure?
+          answer: The harsh, futile suffering of soldiers during WWI, especially from the cold and lack of action.
+        - question: What is meant by the repetition of 'But nothing happens'?
+          answer: It highlights the boredom, pointlessness, and emotional numbness of trench warfare.
+        - question: How does Owen personify nature in the line 'merciless iced east winds that knive us'?
+          answer: Nature is shown as a cruel enemy, inflicting pain like a physical attack.
+        - question: Why is 'us' placed on a new line in the first stanza?
+          answer: To emphasise the vulnerability and isolation of the soldiers.
+        - question: What does the use of ellipsis throughout the poem suggest?
+          answer: A sense of waiting, uncertainty, and distress.
+        - question: What is the effect of 'Pale flakes with fingering stealth come feeling for our faces'?
+          answer: Snow is personified as a stealthy attacker, showing the danger of the weather.
+        - question: What does 'For love of God seems dying' convey?
+          answer: Loss of faith and spiritual despair among the soldiers.
+        - question: What does 'All their eyes are ice' represent?
+          answer: Death, emotional numbness, and dehumanisation from extreme suffering.
+        - question: How does the structure reflect the poem's themes?
+          answer: The ABBA rhyme and para-rhyme reflect unease; repetition shows futility.
+        - question: What message does Owen convey about war through this poem?
+          answer: War is not noble or heroic; it is brutal, cold, and emotionally devastating.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/ux3s8qQBFt4?si=357VFqOkrFi7O7KT
+        - name: Analysis
+          url: https://youtu.be/64FESmLvQEs?si=Tm8Wkg7o327WCkPp
+        - name: Quick Revision
+          url: https://youtu.be/FH_robM_-wg?si=eum9tAOHj2dZC8VA
+    - module: Storm on the Island
+      id: Seamus Heaney
+      url: /courses/8702_B_2/poems/stormonisland
+      questions:
+        - question: What does 'huge nothing that we fear' suggest?
+          answer: The oxymoron 'huge nothing' refers to the uncertainty and hidden nature of The Troubles, drawing parallels with an 'irregular war' and religious tension.
+        - question: What is the significance of 'This wizened earth has never troubled us'?
+          answer: It reflects complacency; the island has never been threatened by nature, symbolising how the speaker and community were once indifferent to conflict.
+        - question: How does the line 'Nor are there trees which might prove company when it blows full blast' develop the theme of isolation?
+          answer: It emphasises the vulnerability of the community, isolated from the rest of humanity, and reinforces their fear and helplessness.
+        - question: What is the meaning of 'Exploding comfortably'?
+          answer: It's an oxymoron that illustrates how the residents have become desensitised to the violent, unpredictable forces of nature.
+        - question: What does 'Space is a salvo' suggest?
+          answer: It implies that the house provides a form of protection from the storm, emphasising the power of shelter in a world filled with uncontrollable forces.
+        - question: How does the structure of the poem mirror its themes?
+          answer: The stichic form, lack of control in the storm, caesura and enjambment create a sense of relentless, overwhelming force, reflecting human vulnerability against nature.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/oiMWZhNoDVI?si=2vWHh4bhFWEUJDQl
+        - name: Analysis
+          url: https://youtu.be/Sgsu_WgO9GY?si=rDfV1KG5b0QCxn4Y
+        - name: Quick Revision
+          url: https://youtu.be/gVgl_pLemfw?si=1WuLqQkJsI1JeyTd
+    - module: Bayonet Charge
+      id: Ted Hughes
+      url: /courses/8702_B_2/poems/bayonetcharge
+      questions:
+        - question: What emotion replaces the soldier's patriotism as he charges forwards?
+          answer: Fear
+        - question: What does the simile 'threw up a yellow hare that rolled like a flame' suggest about the impact of war on nature?
+          answer: It shows how war causes pain and suffering even in nature, using the hare as a symbol of destruction and vulnerability.
+        - question: What does the quote 'King, honour, human dignity, etcetera' imply about patriotic ideals in battle?
+          answer: It implies that these ideals are irrelevant, meaningless and self-indulgent in the face of violence and death.
+        - question: How does Hughes use the structure of the poem to reflect the soldier's mental state?
+          answer: The irregular rhythm, enjambment, and caesura mirror the chaos, confusion and panic the soldier experiences.
+        - question: Why is the soldier described as 'his terror's touchy dynamite'?
+          answer: It suggests he is volatile, consumed by fear, and metaphorically transformed into a weapon.
+        - question: What is the effect of starting the poem in media res?
+          answer: It throws the reader into the action, creating urgency and a sense of disorientation mirroring the experience of the soldier.
+        - question: What might the yellow hare represent in the poem?
+          answer: The hare symbolises innocence, vulnerability and the suffering caused by war.
+        - question: How does the poem portray the concept of dehumanisation in war?
+          answer: It shows how soldiers become mere weapons of war, driven by instinct rather than reason. They are stripped of individuality.
+        - question: What is the significance of the 'patriotic tear' in the soldier's eye?
+          answer: It marks the fading of patriotic views, showing how fear replaces emotion and belief when faced with the realities of battle.
+        - question: In what way is Bayonet Charge a microcosm for all soldiers?
+          answer: It represents the universal experience of soldiers who enter war with patriotic ideals and are overwhelmed by the brutal realities of war.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/iDfyUBfj6Zo?si=1ezYLSC_zkVRs1CJ
+        - name: Analysis
+          url: https://youtu.be/6AMuwf9zzKM?si=jVkr6_0MHFnR1xFS
+        - name: Quick Revision
+          url: https://youtu.be/4--ViHqsaNc?si=WN8htJZSvx_YsAAx
+    - module: Remains
+      id: Simon Armitage
+      url: /courses/8702_B_2/poems/remains
+      questions:
+        - question: What is the main theme of 'Remains'?
+          answer: The psychological trauma and guilt experienced by soldiers due to war, especially PTSD.
+        - question: What does the line 'End of story, except not really' suggest?
+          answer: It acts as the volta, showing that the real story is the internal, mental aftermath. The trauma doesn't end with the action.
+        - question: How does Armitage use language to create a casual tone?
+          answer: Through colloquial expressions like 'legs it' and 'I swear', showing the speaker's effort to normalise trauma.
+        - question: What does 'tosses his guts back into his body' imply?
+          answer: It shows desensitisation to violence, using casual language for a horrific image - the soldiers are emotionally numb.
+        - question: Why is 'his bloody life in my bloody hands' powerful?
+          answer: It suggests both literal and metaphorical guilt, with repetition emphasising the weight of responsibility and regret.
+        - question: How does the poem's structure reflect its themes?
+          answer: The monologue and lack of rhythm mirror the disordered mind of the speaker and the chaos of his memories.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/aWCD-36F2lU?si=gWLFEox73io3CtOb
+        - name: Analysis
+          url: https://youtu.be/vmUCX-dSb9E?si=mEshewXN8usL43U7
+        - name: Quick Revision
+          url: https://youtu.be/R4fLrVnp2jk?si=bfeeady0vGz-zFur
+    - module: Poppies
+      id: Jane Weir
+      url: /courses/8702_B_2/poems/poppies
+      questions:
+        - question: What is the central theme of 'Poppies'?
+          answer: The emotional impact of war on families, especially a mother's grief and fear for her son.
+        - question: What does 'gelled blackthorns of your hair' symbolise?
+          answer: A mix of domestic care and sacrificial imagery, possibly alluding to Jesus' crown of thorns, showing the mother's fear of loss.
+        - question: How does the poem reflect the mother's emotional state?
+          answer: The free verse and enjambment reflect her chaotic, grieving thoughts and inability to control events.
+        - question: Why is 'spasms of paper red' a powerful image?
+          answer: It violently contrasts with the delicate poppy, symbolising the son's potential suffering and death.
+        - question: What does 'Sellotape bandaged around my hand' suggest?
+          answer: It shows her care and pain. 'Sellotape' represents domestic life, while 'bandaged' hints at injury and war.
+        - question: What is the effect of 'the world overflowing like a treasure chest'?
+          answer: It reflects the son's excitement and naivety, contrasting with the mother's protective instincts and fear.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/cM9XxQ_K5QY?si=ZbeYI9c-MdCCLNum
+        - name: Analysis
+          url: https://youtu.be/FEqSAT77SDQ?si=Ga4Qe6tttZklBZ-H
+        - name: Quick Revision
+          url: https://youtu.be/xdD3je6OKAU?si=WTsY-Lepl4pC5kQP
+    - module: War Photographer
+      id: Carol Ann Duffy
+      url: /courses/8702_B_2/poems/warphotographer
+      questions:
+        - question: What is the significance of the phrase 'All flesh is grass'?
+          answer: It is a biblical reference that highlights the fleeting nature of human life, reminding readers of the harsh realities of war and the responsibility of those who document suffering.
+        - question: How does 'running children in a nightmare heat' contribute to the poem's emotional impact?
+          answer: It evokes pathos by portraying children, symbols of innocence, caught in the horrors of war, possibly referencing the 'Napalm Girl' photo to shed light on innocent victims of conflict.
+        - question: What does the line 'In his darkroom he is finally alone' symbolize?
+          answer: The line conveys the photographer's solitude and emotional isolation, with the darkroom symbolizing his mental state, where the trauma of war is revisited through the photographs.
+        - question: What does 'A hundred agonies in black-and-white' suggest?
+          answer: It highlights the emotional weight of the photographs, where each image captures pain and suffering, but many will never be seen, leaving countless voices unheard.
+        - question: What is the significance of 'From the aeroplane he stares impassively at where he earns his living and they do not care'?
+          answer: The line underscores the photographer's detachment from the public's indifference to war, as he continues his work, despite the lack of lasting impact or change.
+        - question: How does the ABBCDD rhyme scheme mirror the themes of the poem?
+          answer: The rigid rhyme scheme reflects the photographer's constrained role in war and the stark contrast between the chaos of the battlefield and his professional detachment.
+        - question: What role does caesura play in the poem?
+          answer: Caesura emphasizes the emotional toll of the photographer's job, forcing pauses that mimic the emotional weight and fragmentation of his experiences.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/IulrUSB2-js?si=oxzLDlBRGMca3IEF
+        - name: Analysis
+          url: https://youtu.be/HeZCQlUMQxI?si=eLnN4MnyS9wCBPRy
+        - name: Quick Revision
+          url: https://youtu.be/MbJGwPjZ3ZM?si=REOsMV5gpBwDJS6j
+    - module: Tissue
+      id: Imtiaz Dharker
+      url: /courses/8702_B_2/poems/tissue
+      questions:
+        - question: What does the reference to 'the back of the Koran' signify?
+          answer: It symbolises the enduring power of paper, particularly in religious texts, which can outlast human life and influence generations.
+        - question: What is the significance of 'Paper that lets the light shine through, this is what could alter things'?
+          answer: It represents hope and the potential for change, with religious undertones of redemption and purity.
+        - question: How does 'pages smoothed and stroked and turned transparent with attention' reflect human life?
+          answer: It suggests the fragility and impermanence of life, where the more we examine our lives, the more we uncover deeper meaning and insight.
+        - question: What does the simile 'Fine slips from grocery shops that say how much was sold and what was paid by credit card might fly our lives like paper kites' suggest?
+          answer: It critiques society's preoccupation with materialism, highlighting how paper controls our lives and shapes our values, despite its fragility.
+        - question: What is the significance of the controlled structure in the poem?
+          answer: The controlled structure mirrors the control paper has over humanity and how it shapes our understanding of the world.
+        - question: How does enjambment in the poem symbolise the impact of paper?
+          answer: Enjambment emphasises the continuous, ever-present influence of paper, reflecting its power in shaping our lives and thoughts.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/UO4dXu3qhFY?si=cxXpWk6yE9odN2N1
+        - name: Analysis
+          url: https://youtu.be/wVjZpi9lkcI?si=nPQ9_Db5alA-gHiG
+        - name: Quick Revision
+          url: https://youtu.be/BSC2cKcgkMk?si=JOHKRMIL4HkhQ8Rx
+    - module: The Emigrée
+      id: Carol Rumens
+      url: /courses/8702_B_2/poems/emigree
+      questions:
+        - question: What is the central theme of The Emigrée?
+          answer: The emotional impact of exile and the speaker's idealised memory of their homeland.
+        - question: What does the line 'It may be at war, it may be sick with tyrants' imply?
+          answer: The speaker's home is now dangerous and politically unstable, yet still thought of fondly.
+        - question: What effect does the motif of sunlight have in the poem?
+          answer: It symbolises hope, warmth, and positive memories.
+        - question: What does 'but I am branded by an impression of sunlight' suggest?
+          answer: The speaker's memories are permanent and emotionally powerful, despite the word 'branded' implying pain.
+        - question: Why is the line 'There once was a country...'' significant?
+          answer: It implies the country has changed for the worse or been lost, evoking nostalgia and longing.
+        - question: What is suggested by 'Soon I shall have every coloured molecule of it'?
+          answer: She hopes to reclaim her identity and voice, lost through exile and oppression.
+        - question: What does 'My city takes me dancing through the city of walls' explore?
+          answer: The tension between freedom and oppression; dancing represents joyful defiance.
+        - question: How does the final line 'my shadow falls as evidence of sunlight' reflect the poem's message?
+          answer: Even in darkness or danger, the memory of light (hope) persists.
+        - question: How does the poem's free verse form reflect its themes?
+          answer: It mirrors the speaker's emotional freedom or lack of control due to displacement.
+        - question: What is the effect of juxtaposing positive imagery with negative reality throughout the poem?
+          answer: It emphasises the conflict between memory and reality, and the resilience of personal identity.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/3oJpr2Z2ViM?si=tMkoxNgXr5GK1li5
+        - name: Analysis
+          url: https://youtu.be/RfIJ8iXLfLc?si=wnQUjelAuSom-cQy
+        - name: Quick Revision
+          url: https://youtu.be/wzx1J8ojGPE?si=UMx8qY9-1kpUU2IS
+    - module: Checking Out Me History
+      id: John Agard
+      url: /courses/8702_B_2/poems/history
+      questions:
+        - question: What is the main theme of Checking Out Me History?
+          answer: Reclaiming identity by challenging the Eurocentric version of history.
+        - question: What does 'Bandage up me eye with me own history' suggest?
+          answer: It is a metaphor suggesting he has been blinded to his own heritage. A criticism of the education system.
+        - question: Why does Agard use dialect and non-standard English?
+          answer: To assert cultural identity and challenge standardised white stereotypes.
+        - question: How is 'Dem tell me bout Columbus and 1492' used critically?
+          answer: It questions why colonial figures are celebrated while indigenous voices are silenced.
+        - question: What does 'Dem tell me bout 1066 and all dat' imply?
+          answer: Dismissal and sarcasm. British history is taught without relevance to his own culture.
+        - question: Why does Agard reference figures like Toussaint?
+          answer: To celebrate Black heroes and educate others on their impact.
+        - question: What do metaphors like 'healing star' and 'yellow sunrise' represent?
+          answer: Hope, guidance, and enlightenment through rediscovering his true history.
+        - question: What is the effect of “I carving out me identity”?
+          answer: Active process of self-discovery and resistance to historical erasure.
+        - question: How does structure support the message of the poem?
+          answer: Rhyme and enjambment unify Black and white history, rejecting separation.
+        - question: What is Agard's wider message?
+          answer: History should reflect all voices and identity must be reclaimed.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/Xmdst7HsowU?si=15VSqvhn-AyMncJH
+        - name: Analysis
+          url: https://youtu.be/Mj1bMk_E7GQ?si=ZahaIbSWmvwGk_CW
+        - name: Quick Revision
+          url: https://youtu.be/cnyv4bucAwA?si=1ikWbu4bXERjkUEB
+    - module: Kamikaze
+      id: Beatrice Garland
+      url: /courses/8702_B_2/poems/kamikaze
+      questions:
+        - question: What is the main theme of Beatrice Garland's 'Kamikaze'?
+          answer: It explores the inner conflict between patriotic duty and personal conscience, and the emotional cost of honour, shame, and legacy.
+        - question: What does 'a shaven head full of powerful incantations' suggest?
+          answer: It implies the pilot is brainwashed by propaganda, and the phrase links to purity, honour, and the Bushido Code.
+        - question: How does 'Her father embarked at sunrise with a flask of water, a samurai sword' contrast peace and violence?
+          answer: "'Sunrise' symbolises peace and hope, while 'samurai sword' represents violence, showing the duality of his journey."
+        - question: What is the meaning of 'arcing in swathes like a huge flag... in a figure of eight'?
+          answer: It links to patriotism and surrender. The figure of eight suggests eternity, making the pilot reflect on life's value.
+        - question: What is suggested by 'cloud-marked mackerel, black crabs, feathery prawns'?
+          answer: The unnatural imagery of sea life in the sky reflects the wrongness of his mission and inner conflict.
+        - question: Why is the tuna described as 'the dark prince, muscular, dangerous'?
+          answer: It represents power and danger. 'Prince' could symbolise the Emperor and the corrupt expectations of sacrifice.
+        - question: What does 'only we children still chattered and laughed' show?
+          answer: It contrasts childhood innocence with adult judgement, highlighting societal pressure and loss of joy.
+        - question: What is the significance of 'he must have wondered which had been the better way to die'?
+          answer: It questions the meaning of honour and whether shame in life is worse than death in duty.
+        - question: What does the poem's use of enjambment suggest?
+          answer: It reflects the pilot's rush of memories and emotional turmoil as he reconsiders his fate.
+        - question: How does the structured form (seven sestets) link to the poem's meaning?
+          answer: It may mirror the strict societal and military expectations placed on the pilot.
+      resources:
+        - name: Illustrated Narration
+          url: https://youtu.be/btzrQet41Os?si=7Fsyd2i4ricQOgnK
+        - name: Analysis
+          url: https://youtu.be/9zwoe5twfd4?si=1DvBHb0hJPbY6tHv
+        - name: Quick Revision
+          url: https://youtu.be/115XZNvCwlI?si=ZiXP406rUjTUsIid
