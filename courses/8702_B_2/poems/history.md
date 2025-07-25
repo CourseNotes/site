@@ -1,6 +1,6 @@
 ---
 course: 8702_B_2
-layout: 8702_B_2_poem
+layout: 8702_B_2/poem
 poem_name: Checking Out Me History
 module: Checking Out Me History
 poem_poet: John Agard

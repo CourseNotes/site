@@ -1,6 +1,6 @@
 ---
 course: 8702_B_2
-layout: 8702_B_2_poem
+layout: 8702_B_2/poem
 poem_name: London
 module: London
 poem_poet: William Blake

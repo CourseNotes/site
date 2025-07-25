@@ -9,4 +9,4 @@ course_id: AQA 8702/B/2
 This course contains detailed notes on the poems covered in the AQA Power & Conflict Poetry anthology.
 
 # Course Contents
-{% include course_content.html %}
+{% include 8702_B_2/course_content.html %}

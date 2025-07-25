@@ -1,6 +1,6 @@
 ---
 course: 8702_B_2
-layout: 8702_B_2_poem
+layout: 8702_B_2/poem
 poem_name: Storm on the Island
 module: Storm on the Island
 poem_poet: Seamus Heaney
